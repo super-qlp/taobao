@@ -1,0 +1,8 @@
+/*
+    @规则
+        @charset    设置样式表编码
+        @import     导入其它样式
+        @meida      媒体查询
+        @font-face  自定义字体
+*/
+@import 'reset.css'
